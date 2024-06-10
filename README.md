@@ -4,9 +4,9 @@ SIMULAÇÃO DO SEMAFORO
 
 ALUNOS/RA
 
-THEO VIEIRA MARCELINO - 00000852946
-LUCCA LEITE VIEGAS - 00000853274
-WILLIAM DE SOUZA BEZERRA - 00000853150
+THEO VIEIRA MARCELINO - 00000852946 | 
+LUCCA LEITE VIEGAS - 00000853274 | 
+WILLIAM DE SOUZA BEZERRA - 00000853150 | 
 
 RESUMO:
 O projeto consiste em uma simulação de semaforos com botões para pedestres utlizando a biblioteca RPI.GPIO, então quando o botão for pressionado, uma função fará com que o contador do semaforo diminua e que ele fique vermelho mais rápido.
